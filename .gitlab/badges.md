@@ -1,0 +1,1 @@
+[![](https://gitlab.com/dev.rachuna/artifacts/ansible-roles/gitlab-profile/-/badges/release.svg)](https://gitlab.com/dev.rachuna/artifacts/ansible-roles/gitlab-profile/-/releases)
