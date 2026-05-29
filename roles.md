@@ -10,7 +10,7 @@
 <tr>
 <td><a href="https://gitlab.com/dev.rachuna/artifacts/ansible-roles/certificates">certificates</a></td>
 <td><a href="https://gitlab.com/dev.rachuna/artifacts/ansible-roles/certificates/-/releases"><img src="https://gitlab.com/dev.rachuna/artifacts/ansible-roles/certificates/-/badges/release.svg" alt=""></a></td>
-<td>Rola Ansible certificates — zarządzanie certyfikatami CA i TLS (Vault PKI) w infrastrukturze rachuna-net.pl.</td>
+<td>Rola Ansible certificates — zarządzanie certyfikatami CA i TLS (Vault PKI) w infrastrukturze rachuna.dev.</td>
 </tr>
 <tr>
 <td><a href="https://gitlab.com/dev.rachuna/artifacts/ansible-roles/haproxy">haproxy</a></td>
